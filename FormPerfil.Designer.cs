@@ -437,7 +437,7 @@
             txtMontoDeposito.Location = new Point(683, 117);
             txtMontoDeposito.Name = "txtMontoDeposito";
             txtMontoDeposito.PlaceholderText = "$0.00";
-            txtMontoDeposito.Size = new Size(300, 54);
+            txtMontoDeposito.Size = new Size(357, 54);
             txtMontoDeposito.TabIndex = 2;
             // 
             // lblMetodoPago
@@ -460,7 +460,7 @@
             cmbMetodoPago.Items.AddRange(new object[] { "💳 Tarjeta de Crédito", "💳 Tarjeta de Débito", "🏦 Transferencia Bancaria", "📱 PayPal", "💰 Criptomonedas" });
             cmbMetodoPago.Location = new Point(683, 203);
             cmbMetodoPago.Name = "cmbMetodoPago";
-            cmbMetodoPago.Size = new Size(300, 48);
+            cmbMetodoPago.Size = new Size(357, 48);
             cmbMetodoPago.TabIndex = 4;
             // 
             // btnDeposito50
@@ -486,7 +486,7 @@
             btnDeposito100.FlatStyle = FlatStyle.Flat;
             btnDeposito100.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
             btnDeposito100.ForeColor = Color.White;
-            btnDeposito100.Location = new Point(445, 304);
+            btnDeposito100.Location = new Point(453, 304);
             btnDeposito100.Name = "btnDeposito100";
             btnDeposito100.Size = new Size(170, 60);
             btnDeposito100.TabIndex = 6;
@@ -501,7 +501,7 @@
             btnDeposito500.FlatStyle = FlatStyle.Flat;
             btnDeposito500.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
             btnDeposito500.ForeColor = Color.White;
-            btnDeposito500.Location = new Point(645, 304);
+            btnDeposito500.Location = new Point(664, 304);
             btnDeposito500.Name = "btnDeposito500";
             btnDeposito500.Size = new Size(170, 60);
             btnDeposito500.TabIndex = 7;
@@ -516,7 +516,7 @@
             btnDeposito1000.FlatStyle = FlatStyle.Flat;
             btnDeposito1000.Font = new Font("Segoe UI", 13F, FontStyle.Bold);
             btnDeposito1000.ForeColor = Color.White;
-            btnDeposito1000.Location = new Point(845, 304);
+            btnDeposito1000.Location = new Point(870, 304);
             btnDeposito1000.Name = "btnDeposito1000";
             btnDeposito1000.Size = new Size(170, 60);
             btnDeposito1000.TabIndex = 8;
@@ -531,7 +531,7 @@
             btnConfirmarDeposito.FlatStyle = FlatStyle.Flat;
             btnConfirmarDeposito.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
             btnConfirmarDeposito.ForeColor = Color.White;
-            btnConfirmarDeposito.Location = new Point(395, 424);
+            btnConfirmarDeposito.Location = new Point(406, 422);
             btnConfirmarDeposito.Name = "btnConfirmarDeposito";
             btnConfirmarDeposito.Size = new Size(500, 70);
             btnConfirmarDeposito.TabIndex = 9;

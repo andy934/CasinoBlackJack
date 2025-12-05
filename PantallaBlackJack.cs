@@ -33,7 +33,6 @@ namespace proyectoMetodologia
 
             btnHit.Enabled = false;
             btnStay.Enabled = false;
-            btnDoblar.Enabled = false;
             //btnPerfil.Enabled = false;
 
             lblDineroUsuario.Text = SesionUsuario.Dinero.ToString("C");
@@ -61,7 +60,6 @@ namespace proyectoMetodologia
             if (Convert.ToInt16(label3.Text) > 21)
             {
                 btnHit.Enabled = false;
-                btnDoblar.Enabled = false;
             }
             //int index2 = rnd.Next(0, archivos.Length);
             //int totalCarta = ValorCartaPlayer(nomCarta, nomCarta2);
@@ -87,7 +85,6 @@ namespace proyectoMetodologia
             btnPerfil.Enabled = false;
             btnHit.Enabled = true;
             btnStay.Enabled = true;
-            btnDoblar.Enabled = true;
 
             Random rnd = new Random();
             int index = rnd.Next(0, archivos.Length);
@@ -139,7 +136,6 @@ namespace proyectoMetodologia
             {
                 flagBlackJack = true;
                 btnHit.Enabled = false;
-                btnDoblar.Enabled = false;
             }
         }
 
@@ -259,7 +255,6 @@ namespace proyectoMetodologia
 
             btnHit.Enabled = false;
             btnStay.Enabled = false;
-            btnDoblar.Enabled = false;
 
             if (flagBlackJack)
             {
@@ -474,7 +469,6 @@ namespace proyectoMetodologia
             btnRepartir.Enabled = true;
             btnHit.Enabled = false;
             btnStay.Enabled = false;
-            btnDoblar.Enabled = false;
 
             //Restablecer banderas
             flagJugador = false;

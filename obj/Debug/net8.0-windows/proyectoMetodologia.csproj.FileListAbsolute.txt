@@ -66,3 +66,4 @@ D:\C#\proyectoMetodologia\obj\Debug\net8.0-windows\proyectoMetodologia.csproj.As
 D:\C#\proyectoMetodologia\obj\Debug\net8.0-windows\proyecto.7976C461.Up2Date
 D:\C#\proyectoMetodologia\obj\Debug\net8.0-windows\proyectoMetodologia.FormRegistro.resources
 D:\C#\proyectoMetodologia\obj\Debug\net8.0-windows\proyectoMetodologia.FormPerfil.resources
+D:\C#\proyectoMetodologia\obj\Debug\net8.0-windows\proyectoMetodologia.sourcelink.json
