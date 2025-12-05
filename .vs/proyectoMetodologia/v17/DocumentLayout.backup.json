@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\C#\\proyectoMetodologia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\pantallablackjack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:pantallablackjack.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|D:\\C#\\proyectoMetodologia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|D:\\C#\\proyectoMetodologia\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,50 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PantallaBlackJack.cs",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs",
-              "RelativeDocumentMoniker": "PantallaBlackJack.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs",
-              "RelativeToolTip": "PantallaBlackJack.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAawCIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T21:08:23.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PantallaBlackJack.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.Designer.cs",
-              "RelativeDocumentMoniker": "PantallaBlackJack.Designer.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.Designer.cs",
-              "RelativeToolTip": "PantallaBlackJack.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8CAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T21:07:00.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormPerfil.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.Designer.cs",
-              "RelativeDocumentMoniker": "FormPerfil.Designer.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\FormPerfil.Designer.cs",
-              "RelativeToolTip": "FormPerfil.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\proyectoMetodologia\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T20:42:12.965Z",
+              "WhenOpened": "2025-12-05T21:29:24.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormPerfil.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.Designer.cs",
+              "RelativeDocumentMoniker": "FormPerfil.Designer.cs",
+              "ToolTip": "D:\\C#\\proyectoMetodologia\\FormPerfil.Designer.cs",
+              "RelativeToolTip": "FormPerfil.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:24:35.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPerfil.cs",
+              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
+              "RelativeDocumentMoniker": "FormPerfil.cs",
+              "ToolTip": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
+              "RelativeToolTip": "FormPerfil.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAYwFYBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T21:12:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FormPerfil.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
               "RelativeDocumentMoniker": "FormPerfil.cs",
@@ -94,38 +86,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PantallaBlackJack.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs",
-              "RelativeDocumentMoniker": "PantallaBlackJack.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PantallaBlackJack.cs [Dise\u00F1o]",
+              "Title": "SesionUsuario.cs",
+              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\SesionUsuario.cs",
+              "RelativeDocumentMoniker": "SesionUsuario.cs",
+              "ToolTip": "D:\\C#\\proyectoMetodologia\\SesionUsuario.cs",
+              "RelativeToolTip": "SesionUsuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T18:06:34.802Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormRegistro.cs",
-              "RelativeDocumentMoniker": "FormRegistro.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\FormRegistro.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormRegistro.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T21:40:38.151Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\C#\\proyectoMetodologia\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T18:06:26.32Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-12-05T21:17:31.469Z",
+              "EditorCaption": ""
             }
           ]
         }
