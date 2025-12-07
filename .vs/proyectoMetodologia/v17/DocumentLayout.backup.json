@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\C#\\proyectoMetodologia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:pantallablackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\sesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|d:\\c#\\proyectometodologia\\formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0D55C88-67A9-499D-B79A-D6BC9D6D460F}|proyectoMetodologia.csproj|solutionrelative:formperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "PantallaBlackJack.cs",
+              "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs",
+              "RelativeDocumentMoniker": "PantallaBlackJack.cs",
+              "ToolTip": "D:\\C#\\proyectoMetodologia\\PantallaBlackJack.cs",
+              "RelativeToolTip": "PantallaBlackJack.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAewCACAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T00:42:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T21:29:24.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T21:29:24.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormPerfil.Designer.cs",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.Designer.cs",
               "RelativeDocumentMoniker": "FormPerfil.Designer.cs",
@@ -60,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormPerfil.cs",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
               "RelativeDocumentMoniker": "FormPerfil.cs",
               "ToolTip": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
               "RelativeToolTip": "FormPerfil.cs",
-              "ViewState": "AgIAAHQBAAAAAAAAAAAYwFYBAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAHABAAAAAAAAAAAUwF4BAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T21:12:08.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormPerfil.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\FormPerfil.cs",
               "RelativeDocumentMoniker": "FormPerfil.cs",
@@ -85,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SesionUsuario.cs",
               "DocumentMoniker": "D:\\C#\\proyectoMetodologia\\SesionUsuario.cs",
               "RelativeDocumentMoniker": "SesionUsuario.cs",

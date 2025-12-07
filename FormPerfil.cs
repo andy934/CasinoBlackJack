@@ -14,6 +14,9 @@ namespace proyectoMetodologia
 {
     public partial class FormPerfil : Form
     {
+        // Declarar el evento
+        public event EventHandler<decimal> DineroActualizado;
+
         // Variables para almacenar los datos del usuario
         private string nombreCompleto;
         private string apellido;
@@ -312,6 +315,12 @@ namespace proyectoMetodologia
                     // Actualizar la interfaz
                     lblValorSaldo.Text = $"${SesionUsuario.Dinero:N2}";
 
+                    // Actualizar label del perfil
+                    lblValorSaldo.Text = $"${SesionUsuario.Dinero:N2}";
+
+                    // DISPARAR EL EVENTO
+                    DineroActualizado?.Invoke(this, SesionUsuario.Dinero);
+
                     // Recargar el historial
                     CargarHistorialDepositosDesdeDB();
 
@@ -343,7 +352,7 @@ namespace proyectoMetodologia
                     cmd.Parameters.AddWithValue("@UsuarioID", SesionUsuario.ID);
                     cmd.Parameters.AddWithValue("@Fecha", DateTime.Now);
                     cmd.Parameters.AddWithValue("@Monto", monto);
-                    cmd.Parameters.AddWithValue("@MetodoPago", metodoPago);
+                    cmd.Parameters.AddWithValue("@MetodoPago", metodoPago.Substring(2));
                     cmd.Parameters.AddWithValue("@Estado", "Completado");
 
                     cmd.ExecuteNonQuery();

@@ -542,7 +542,13 @@ namespace proyectoMetodologia
         {
             FormPerfil verPerfil = new FormPerfil();
             verPerfil.Show();
+            //lblDineroUsuario.Text = $"${SesionUsuario.Dinero:N2}";
             //this.Hide();
+            //SUSCRIBIRSE AL EVENTO
+            verPerfil.DineroActualizado += (s, nuevoSaldo) =>
+            {
+                lblDineroUsuario.Text = $"${nuevoSaldo:N2}";
+            };
         }
 
         private void Apostar(string monto)
